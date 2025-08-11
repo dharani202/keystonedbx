@@ -101,3 +101,8 @@ new_rows_df.write.format("delta").mode("append").saveAsTable("dim_employee2")
 
 # MAGIC %sql
 # MAGIC select * from dim_employee2
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC select * from dim_employee2
