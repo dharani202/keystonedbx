@@ -1,0 +1,5 @@
+emp_id,name,department,salary,city,phone,email
+2,Bob,IT,85000,Los Angeles,2345678901,bob@abc.com
+3,Charlie,Finance,75000,Chicago,9999999999,charlie_new@abc.com
+4,David,Sales,68000,Boston,4567890123,david@abc.com
+5,Eve,HR,62000,Austin,5678901234,eve@abc.com
